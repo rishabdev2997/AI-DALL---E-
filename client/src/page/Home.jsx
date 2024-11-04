@@ -24,7 +24,7 @@ const Home = () => {
     setLoading(true);
 
     try {
-      const response = await fetch("http://localhost:7070/api/v1/post", {
+      const response = await fetch("https://ai-dall-e-r5e6.vercel.app/api/v1/post", {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
