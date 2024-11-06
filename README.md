@@ -3,6 +3,7 @@ AI-powered app crafting art, memes, and UI/UX designs, inspired by MidJourney an
 – Developed an innovative AI-powered image generation website using OpenAI’s advanced model.
 – Seamlessly integrated prompt suggestion feature, enhancing user interaction and creativity.
 – Transformed text prompts into stunning visual art, showcasing the potential of artificial intelligence in creative endeavors.
+- Added support for custom config files and configuration files for custom config files
 
 
 
